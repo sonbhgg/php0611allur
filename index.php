@@ -28,7 +28,7 @@ function substract($a, $b) {
     
 }
 function divide($a, $b) {
-    
+    //переделывай
 }
 function exponentiate($a, $b) {
     
